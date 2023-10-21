@@ -10,7 +10,7 @@
 
 <ul> 
   <li><a href="https://habr.com/ru/post/472156/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Реализация паттерна Page Object на Python + pytest</b></a><br/><i> Реализация популярного паттерна с помощью Python,Pytest,Selenium</i></li>
-  <li><a href="https://habr.com/ru/companies/tinkoff/articles/745994/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Встроенные фикстуры Pytest</b></a><br/><i>Встроенные фикстуры и их применениена на практике</i></li>
+  <li><a href="https://habr.com/ru/companies/tinkoff/articles/745994/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Встроенные фикстуры Pytest</b></a><br/><i>Встроенные фикстуры и их применение на практике</i></li>
   <li><a href="https://habr.com/ru/articles/471364/"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/gear_2699.png" width="20" alt="new" /> Управление автоматизированными тестами с помощью Telegram</b></a><br/><i> Реализуем запуск автотестов на Travis CI и Telegram</i></li>
   <li><a href="https://vk.com/nkvand?w=page-57310395_56082133"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/robot_1f916.png" width="20" alt="new" /> Курс по автоматизации тестирования на Python </b></a><br/><i>Пошаговый курс от и до, состоящий из 17 уроков </i></li>
 </ul>
